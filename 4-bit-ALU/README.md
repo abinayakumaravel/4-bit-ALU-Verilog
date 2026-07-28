@@ -42,8 +42,8 @@ This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog HDL. T
 ```
 
 ## Waveform
+<img width="1918" height="1020" alt="Screenshot 2026-07-28 122324" src="https://github.com/user-attachments/assets/7920b6f2-447e-4237-a7a9-e19ccff23bcf" />
 
-Add your waveform screenshot here.
 
 ```markdown
 ![Waveform](waveforms/alu_waveform.png)
